@@ -39,12 +39,9 @@ a {
 }
 
 a:hover {
-  color: #b30000;
+  color: #a00;
 }
 
-a:visited {
-  color: #0099cc;
-}
 
 table {
   font-size: inherit;
@@ -129,7 +126,7 @@ ul.posts {
     }
 
       .site .footer .contact a {
-        color: #8085C1;
+        color: #cdcdcd;
       }
 
     .site .footer .rss {
