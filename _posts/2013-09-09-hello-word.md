@@ -1,6 +1,6 @@
 ---
-layout:post
-title:我的Hello world
+layout: post
+title: 我的Hello world
 ---
 {{ page.title }}
 ================
