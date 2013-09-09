@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我的Hello world
+category: 乱语
 ---
 {{ page.title }}
 ================
