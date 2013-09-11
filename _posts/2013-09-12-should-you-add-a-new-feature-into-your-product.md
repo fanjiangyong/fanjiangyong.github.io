@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 是否应该给产品添加新特性？
-category: 乱语
+category: 产品观察
 ---
 {{ page.title }}
 ================
