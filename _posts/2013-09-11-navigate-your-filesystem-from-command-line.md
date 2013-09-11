@@ -66,9 +66,10 @@ MAC版本复制了评论中smarty_kiki的代码：
 	1
 	complete -F _completemarks jump unmark
 
-遇到的几个简单的菜鸟问题记录如下：
+使用步骤如下：
 
-	#建立marks目录储存符号链接
+建立marks目录储存符号链接
+
 	$ cd ~
 	$ mkdir .marks
 
