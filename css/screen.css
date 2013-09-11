@@ -152,7 +152,7 @@ ul.posts {
   /* standard */
 
   #post pre {
-    border: 1px solid #ddd;
+    border: 0px solid #ddd;
     background-color: #f0f6f3;
     padding: 0 .4em;
   }
