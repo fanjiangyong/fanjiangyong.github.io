@@ -74,9 +74,9 @@ MAC版本复制了评论中smarty_kiki的代码：
 	$ cd ~
 	$ mkdir .marks
 
-打开root目录下的隐藏文件.bashec
+打开root目录下的隐藏文件.bashrc
 
-	$ sudo subl .bashec
+	$ sudo subl .bashrc
 
 将上面的代码复制到这个文件中。保存关闭。
 
