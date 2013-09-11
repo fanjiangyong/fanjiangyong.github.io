@@ -88,6 +88,10 @@ MAC版本复制了评论中smarty_kiki的代码：
 
 	$ source ~/.bash_profile
 
+或者
+
+	$ source ~/.bashrc
+
 重新加载后就可以享受便捷的乐趣了。
 
 WINDOWS及MAC OS X的详细解释请参考[原文](http://blog.jobbole.com/46258/)。
