@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 房价到底跌不跌？
-category: 金融
+category: finance
 ---
 {{ page.title }}
 ================

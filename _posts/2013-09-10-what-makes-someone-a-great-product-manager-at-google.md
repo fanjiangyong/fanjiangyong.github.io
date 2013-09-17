@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 文摘：如何在谷歌成为一名优秀的产品经理
-category: 产品观察
+category: product
 tags: goolge 产品经理
 ---
 {{ page.title }}

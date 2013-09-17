@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在MAC中用命令行快速切换目录
-category: 乱语
+category: say
 tags: mac 命令行
 ---
 {{ page.title }}

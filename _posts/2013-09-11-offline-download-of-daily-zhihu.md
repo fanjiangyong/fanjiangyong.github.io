@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 知乎日报的离线下载
-category: 产品观察
+category: product
 tags: 知乎 知乎日报
 ---
 {{ page.title }}
